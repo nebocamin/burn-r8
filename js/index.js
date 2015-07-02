@@ -51,7 +51,7 @@ $(function () {
       marker: {
         radius: 6
       },
-      data: [63,64]
+      data: [63,65]
     }]
   });
 });
