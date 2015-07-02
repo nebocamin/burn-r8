@@ -1,7 +1,7 @@
 $(function () {
   $('#container').highcharts({
     title: {
-      text: 'Bug Burndown Haufe R8',
+      text: 'Bug Burndown',
       x: -20 //center
     },
     colors: ['blue', 'green'],
