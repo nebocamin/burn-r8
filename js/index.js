@@ -41,28 +41,28 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [63,67,65,61]
+        data: [63,67,65,61,57]
       }, {
         name: 'Pending',
         color: 'rgba(0,200,200,0.75)',
         marker: {
           radius: 2
         },
-        data: [63,53,53,53]
+        data: [63,53,53,53,54]
       }, {
         name: 'High & Critical',
         color: 'rgba(225,0,0,0.75)',
         marker: {
           radius: 2
         },
-        data: [20,19,17,17]
+        data: [20,19,17,17,16]
       }, {
         name: 'Normal',
         color: 'rgba(225,200,0,0.75)',
         marker: {
           radius: 2
         },
-        data: [25,25,23,23]
+        data: [25,25,23,23,22]
       }
     ]
   });
