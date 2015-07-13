@@ -48,7 +48,7 @@ $(function () {
         marker: {
           radius: 2
         },
-        data: [63,53,53,53,54,55,50,48]
+        data: [63,53,53,53,54,55,50,48,48]
       }, {
         name: 'High & Critical',
         color: 'rgba(225,0,0,0.75)',
