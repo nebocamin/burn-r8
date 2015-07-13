@@ -41,28 +41,28 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [63,67,65,61,57,60,58]
+        data: [63,67,65,61,57,60,58,52]
       }, {
         name: 'Pending',
         color: 'rgba(0,200,200,0.75)',
         marker: {
           radius: 2
         },
-        data: [63,53,53,53,54,55,50]
+        data: [63,53,53,53,54,55,50,46]
       }, {
         name: 'High & Critical',
         color: 'rgba(225,0,0,0.75)',
         marker: {
           radius: 2
         },
-        data: [20,19,17,17,16,16,14]
+        data: [20,19,17,17,16,16,14,13]
       }, {
         name: 'Normal',
         color: 'rgba(225,200,0,0.75)',
         marker: {
           radius: 2
         },
-        data: [25,25,23,23,22,24,22]
+        data: [25,25,23,23,22,24,22,17]
       }
     ]
   });
