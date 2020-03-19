@@ -36,7 +36,7 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [5, 15, 30, 60]
+        data: [5, 40, 80, 180]
       }
     ]
   });
