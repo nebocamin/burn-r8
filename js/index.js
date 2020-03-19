@@ -12,7 +12,7 @@ $(function () {
       }
     },
     xAxis: {
-      categories: ['Day 31', 'Day 30', 'Day 29','Day 28','Day 27','Day 26','Day 25','Day 24','Day 23','Day 22','Day 21','Day 20','Day 19','Day 18','Day 17','Day 16','Day 15','Day 14','Day 13','Day 12','Day 11','Day 10','Day 9','Day 8', 'Day 7', 'Day 6', 'Day 5', 'Day 4', 'Day 3', 'Day 2', 'Day 1','Day 0',]
+      categories: ['Sprint 1','Sprint 2','Sprint 3','Sprint 4']
     },
     yAxis: {
       min: 0,
