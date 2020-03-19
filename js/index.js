@@ -1,7 +1,7 @@
 $(function () {
   $('#container').highcharts({
     title: {
-      text: 'Bug Burndown',
+      text: 'Burn Up Chart',
     },
     plotOptions: {
       line: {
@@ -25,17 +25,12 @@ $(function () {
       }]
     },
     tooltip: {
-      valueSuffix: ' Bugs',
+      valueSuffix: ' Story Points',
       crosshairs: true,
       shared: true
     },
     series: [
-      {
-        name: 'Ideal',
-        color: 'rgba(0,255,0,0.25)',
-        lineWidth: 1,
-        data: [1, 5, 20, 40]
-      }, {
+       {
         name: 'Actual',
         color: 'rgba(0,120,200,0.75)',
         marker: {
