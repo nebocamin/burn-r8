@@ -31,7 +31,7 @@ $(function () {
     },
     series: [
        {
-        name: 'Actual',
+        name: 'Total',
         color: 'rgba(0,120,200,0.75)',
         marker: {
           radius: 10
