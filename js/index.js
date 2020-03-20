@@ -44,7 +44,7 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [300]
+        data: [300,300,300,300]
       }
     ]
   });
