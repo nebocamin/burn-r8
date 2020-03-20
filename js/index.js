@@ -8,7 +8,7 @@ $(function () {
         lineWidth: 3
       },
       tooltip: {
-        hideDelay: 400
+        hideDelay: 350
       }
     },
     xAxis: {
@@ -44,7 +44,7 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [300,300,300,300]
+        data: [290,290,290,290]
       }
     ]
   });
