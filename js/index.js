@@ -36,7 +36,7 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [5, 40, 80]
+        data: [23, 40, 80]
       },
              {
         name: 'Total',
