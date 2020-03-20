@@ -8,7 +8,7 @@ $(function () {
         lineWidth: 3
       },
       tooltip: {
-        hideDelay: 200
+        hideDelay: 400
       }
     },
     xAxis: {
