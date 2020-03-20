@@ -12,7 +12,7 @@ $(function () {
       }
     },
     xAxis: {
-      categories: ['Sprint 1','Sprint 2','Sprint 3','Sprint 4']
+      categories: ['Sprint 1','Sprint 2','Sprint 3']
     },
     yAxis: {
       min: 0,
@@ -36,7 +36,7 @@ $(function () {
         marker: {
           radius: 10
         },
-        data: [23, 40, 80]
+        data: [23, 40]
       },
              {
         name: 'Total',
