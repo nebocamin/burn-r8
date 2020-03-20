@@ -37,6 +37,14 @@ $(function () {
           radius: 10
         },
         data: [5, 40, 80, 180]
+      },
+             {
+        name: 'Actual',
+        color: 'rgba(40,0,200,0.75)',
+        marker: {
+          radius: 10
+        },
+        data: [300]
       }
     ]
   });
